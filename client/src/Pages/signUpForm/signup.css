@@ -1,0 +1,15 @@
+.signupForm{
+    padding-top: 30px;
+    border: 1px solid red;
+    width: 50%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.signupForm input{
+    height: 50px;
+}
+.signupForm button{
+    height: 40px;
+}
